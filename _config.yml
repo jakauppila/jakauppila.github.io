@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Jared Kauppila"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/bio-jared.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Platform Engineer who just wants to make some things better."
   location         : "Wisconsin"
   email            : "Jared@Kauppi.la"
